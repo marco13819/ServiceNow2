@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>User</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-08 04:21:01</sys_created_on>
+        <sys_id>d658036483b912103ef6fa96feaad39b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>User</sys_name>
+        <sys_package display_value="Needit" source="x_741738_needit">852cb624837912103ef6fa96feaad38d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Needit">852cb624837912103ef6fa96feaad38d</sys_scope>
+        <sys_update_name>sys_ui_view_d658036483b912103ef6fa96feaad39b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-08 04:21:01</sys_updated_on>
+        <title>User</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
